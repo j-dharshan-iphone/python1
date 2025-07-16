@@ -4,6 +4,7 @@ try:
     b=int(input("enter a no"))
     c = a*b
     print("multiplied the value: ",c)
+    print("welcome")
 
     
 except:
